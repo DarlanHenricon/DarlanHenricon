@@ -29,6 +29,7 @@ STACK:       Python | SQL | Data Analytics | ML
 FOCUS:       Data Science & Artificial Intelligence
 STATUS:      Learning & Building
 LOCATION:    Brazil 🇧🇷
+```
 
 Estudante de Ciência de Dados para Negócios — FATEC Sebrae, com foco em Python, Análise de Dados, Machine Learning e Inteligência Artificial.
 
@@ -36,70 +37,163 @@ Busco transformar dados em insights, visualizações e soluções aplicáveis a 
 
 Atualmente, estou construindo projetos acadêmicos e pessoais para desenvolver minhas habilidades técnicas e consolidar meu portfólio.
 
-⚡ SYSTEM.TECH_STACK()
+<br>
+
+## ⚡ `SYSTEM.TECH_STACK()`
+
 <div align="center">
-LANGUAGES
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4C9EEB" /> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3DDC84" /> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFC940" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=4C9EEB" />
-DATA SCIENCE
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4C9B0" /> <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4C9EEB" /> <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFC940" /> <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=3DDC84" /> <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=4C9EEB" />
-DATA & BI
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FFC940" /> <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=3DDC84" />
-WEB & TOOLS
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=D4C9B0" /> <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=3DDC84" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFC940" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=4C9EEB" /> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D4C9B0" /> </div>
-🚀 SYSTEM.FEATURED_PROJECTS()
-<table width="100%"> <tr> <td width="50%" valign="top">
-📊 Projeto Integrador — FATEC
 
-Web Scraping & Engenharia de Dados
+**LANGUAGES**
 
-Projeto acadêmico desenvolvido na FATEC Sebrae para coleta, extração, tratamento e organização de informações financeiras públicas.
-
-Tecnologias
-
-Python Web Scraping PDF ETL Data Processing
-
-<br> <a href="https://github.com/DarlanHenricon/Projeto_PI_3_semestre_fatec"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </td> <td width="50%" valign="top">
-🌐 Darlan Portfolio
-
-Data Analytics Portfolio
-
-Portfólio desenvolvido para apresentar projetos práticos, habilidades técnicas e aplicações de análise de dados voltadas para negócios.
-
-Tecnologias
-
-Python Power BI ETL Web Scraping JavaScript
-
-<br> <a href="https://github.com/DarlanHenricon/darlan-portfolio"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
-🛒 Amazon Sales EDA
-
-Exploratory Data Analysis
-
-Análise exploratória de vendas da Amazon investigando preços, categorias, receita, regiões e comportamento de compra.
-
-Tecnologias
-
-Python Pandas Matplotlib Seaborn
-
-<br> <a href="https://github.com/DarlanHenricon/amazon-sales-eda"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </td> <td width="50%" valign="top">
-🚀 Project NASA — FATEC
-
-Algorithm & Academic Project
-
-Projeto acadêmico desenvolvido para avaliação na FATEC Sebrae, envolvendo desenvolvimento de algoritmos e aplicação prática de conceitos computacionais.
-
-Tecnologias
-
-HTML CSS JavaScript
-
-<br> <a href="https://github.com/DarlanHenricon/Project_Nasa_Fatec"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> </td> </tr> </table>
-📊 SYSTEM.GITHUB_ANALYTICS()
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarlanHenricon&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&icon_color=3DDC84&text_color=D4C9B0&ring_color=FFC940" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHenricon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&text_color=D4C9B0&langs_count=8" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4C9EEB" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFC940" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=4C9EEB" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=DarlanHenricon&theme=dark&hide_border=true&background=000000&ring=FFC940&fire=FFC940&currStreakLabel=3DDC84&sideNums=D4C9B0&currStreakNum=FFFFFF&sideLabels=D4C9B0&dates=8A7A5C" /> </div>
-🌐 SYSTEM.CONNECT()
-<div align="center"> <a href="https://www.linkedin.com/in/darlan-henricon-587085173/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4C9EEB" /> </a> <a href="https://github.com/DarlanHenricon"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /> </a> <a href="mailto:Darlanhenricon@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFC940" /> </a> </div> <br> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"> <div align="center"> <br>
+**DATA SCIENCE**
+
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4C9B0" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4C9EEB" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFC940" />
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=4C9EEB" />
+
+<br><br>
+
+**DATA & BI**
+
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FFC940" />
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=3DDC84" />
+
+<br><br>
+
+**WEB & TOOLS**
+
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=D4C9B0" />
+<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFC940" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=4C9EEB" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D4C9B0" />
+
+</div>
+
+<br>
+
+## 🚀 `SYSTEM.FEATURED_PROJECTS()`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Projeto Integrador — FATEC
+**Web Scraping & Engenharia de Dados**
+
+Projeto acadêmico desenvolvido na FATEC Sebrae para coleta, extração, tratamento e organização de informações financeiras públicas.
+
+**Tecnologias:** Python • Web Scraping • PDF • ETL • Data Processing
+
+<br>
+
+<a href="https://github.com/DarlanHenricon/Projeto_PI_3_semestre_fatec">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Darlan Portfolio
+**Data Analytics Portfolio**
+
+Portfólio desenvolvido para apresentar projetos práticos, habilidades técnicas e aplicações de análise de dados voltadas para negócios.
+
+**Tecnologias:** Python • Power BI • ETL • Web Scraping • JavaScript
+
+<br>
+
+<a href="https://github.com/DarlanHenricon/darlan-portfolio">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Amazon Sales EDA
+**Exploratory Data Analysis**
+
+Análise exploratória de vendas da Amazon investigando preços, categorias, receita, regiões e comportamento de compra.
+
+**Tecnologias:** Python • Pandas • Matplotlib • Seaborn
+
+<br>
+
+<a href="https://github.com/DarlanHenricon/amazon-sales-eda">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Project NASA — FATEC
+**Algorithm & Academic Project**
+
+Projeto acadêmico desenvolvido para avaliação na FATEC Sebrae, envolvendo desenvolvimento de algoritmos e aplicação prática de conceitos computacionais.
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/DarlanHenricon/Project_Nasa_Fatec">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 `SYSTEM.GITHUB_ANALYTICS()`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarlanHenricon&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&icon_color=3DDC84&text_color=D4C9B0&ring_color=FFC940" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHenricon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&text_color=D4C9B0&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DarlanHenricon&theme=dark&hide_border=true&background=000000&ring=FFC940&fire=FFC940&currStreakLabel=3DDC84&sideNums=D4C9B0&currStreakNum=FFFFFF&sideLabels=D4C9B0&dates=8A7A5C" />
+
+</div>
+
+<br>
+
+## 🌐 `SYSTEM.CONNECT()`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/darlan-henricon-587085173/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4C9EEB" />
+</a>
+<a href="https://github.com/DarlanHenricon">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="mailto:Darlanhenricon@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFC940" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
+<div align="center">
+<br>
 
 <sub>"Building. Learning. Analyzing. Evolving."</sub>
 
