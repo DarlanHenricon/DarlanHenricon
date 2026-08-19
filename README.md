@@ -157,52 +157,6 @@ Projeto acadêmico desenvolvido para avaliação na FATEC Sebrae, envolvendo des
 
 <br>
 
-## 📊 `SYSTEM.GITHUB_ANALYTICS()`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarlanHenricon&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&icon_color=3DDC84&text_color=D4C9B0&ring_color=FFC940" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHenricon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4C9EEB&text_color=D4C9B0&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=DarlanHenricon&theme=dark&hide_border=true&background=000000&ring=FFC940&fire=FFC940&currStreakLabel=3DDC84&sideNums=D4C9B0&currStreakNum=FFFFFF&sideLabels=D4C9B0&dates=8A7A5C" />
-
-</div>
-
-<br>
-
-## 🌐 `SYSTEM.CONNECT()`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/darlan-henricon-587085173/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4C9EEB" />
-</a>
-<a href="https://github.com/DarlanHenricon">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="mailto:Darlanhenricon@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFC940" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-<div align="center">
-<br>
-
-<sub>"Building. Learning. Analyzing. Evolving."</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DarlanHenricon&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
-
-<br><br>
-
 <sub>© Darlan Henricon — Data Science Student</sub>
 
 </div>
