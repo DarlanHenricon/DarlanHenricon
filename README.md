@@ -20,9 +20,9 @@
 
 ## 🧠 `SYSTEM.ABOUT_ME()`
 
-yaml
+```yaml
 > whoami
-
+...
 USER:        Darlan Henricon
 ROLE:        Data Science Student
 STACK:       Python | SQL | Data Analytics | ML
